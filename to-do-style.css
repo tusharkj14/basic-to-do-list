@@ -1,0 +1,35 @@
+@import url("C:\Windows\Fonts\IndieFlower.ttf");
+@import url("C:\Windows\Fonts\GloriaHallelujah.ttf");
+@import url('C:\Windows\Fonts\Gabriola.ttf');
+@import url('C:\Windows\Fonts\BreeSerif-Regular_0.ttf.ttf');
+@import url('C:\Windows\Fonts\BRLNSR.TTF');
+
+body{
+	text-align: center;
+	font-family: "Indie Flower";
+	background-color: rgba(189,186,145,0.5);
+}
+h1{
+	font-size: 50px;
+}
+
+input{
+	text-align: center;
+	font-family: "Bree Serif";
+	width: 350px;
+	height: 50px;
+}
+button{
+	margin-top: 10px;
+}
+.butnew{
+	margin-left: 20px;
+	position: fixed;
+	left: 55%;
+}
+ol{
+	margin-left: 40%;
+	font-size: 25px;
+	color: orange;
+	text-align: justify;
+}
